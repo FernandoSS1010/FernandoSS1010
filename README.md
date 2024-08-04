@@ -1,10 +1,19 @@
-## Hi there 👋
+### Bem vindo ao meu perfil 👋
 
-<!--
-**FernandoSS1010/FernandoSS1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou Fernando de Souza Silva, estou no 2º semetsre do 1º Ano do Ensino Médio, na Escola Estadual João Gomieri Sorinho na cidade de Palmares Paulista/SP
 
+- Estou cursando [Alura](https://www.alura.com.r)
+- Utilizo esse espaço para organizar e compartilhar dos meus projetos
+
+### Você pode entrar em contato comigo: 📫
+00001166052618SP@al.educacao.sp.gov.br
+
+@ 
+
+![](https://media1.tenor.com/m/ojNACfrYG5AAAAAC/nerd-spongebob.gif)
+
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
